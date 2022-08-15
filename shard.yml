@@ -1,0 +1,13 @@
+name: note-starter
+version: 0.1.0
+
+authors:
+  - Ihar Suvorau <ihar.suvorau@gmail.com>
+
+targets:
+  note-starter:
+    main: src/note-starter.cr
+
+crystal: 1.5.0
+
+license: MIT
